@@ -4,8 +4,8 @@
 #include "MAX30105.h"
 
 // WiFi credentials
-const char* ssid = "OnePlus Nord CE 4";
-const char* password = "2444666668888888";
+const char* ssid = "Your SSID";
+const char* password = "Your ssid Password";
 
 // MAX30105 sensor object
 MAX30105 sensor;
