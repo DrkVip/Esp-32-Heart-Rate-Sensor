@@ -51,3 +51,6 @@ This project uses an ESP32 microcontroller and a MAX30105 pulse oximeter sensor 
 ## License
 This project is open-source under the MIT License.
 
+
+https://github.com/DrkVip/Esp-32-Heart-Rate-Sensor/blob/main/Output.jpg?raw=true
+
